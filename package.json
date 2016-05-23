@@ -1,0 +1,11 @@
+{
+  "name": "npm-test-codeship-publish",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "jshint package.json"
+  },
+  "devDependencies": {
+    "jshint": "^2.6.0",
+    "npm-prepublish": "^1.0.2"
+  }
+}
